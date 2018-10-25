@@ -1,6 +1,6 @@
 # CPE-101 Drum Machine
 
-This proof-of-concept circuit python script demonstrates the potential of using the Circuit Playground Express as a drum machine.
+This proof-of-concept CircuitPython script demonstrates the potential of using the Circuit Playground Express as a drum machine.
 
 ## Installing
 
